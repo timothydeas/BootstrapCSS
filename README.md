@@ -1,3 +1,3 @@
-# timplate (aka template repo)
+# HTML & Bootstrap CSS
 
-basic html, css and javascript template
+This repo contains a reproduced design as seen on Dribbble's home page (https://dribbble.com/search/landing-page) using HTML and Bootstrap CSS.
