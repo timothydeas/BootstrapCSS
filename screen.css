@@ -1,6 +1,21 @@
-@import "bootstrap/scss/bootstrap";
+/* @import "bootstrap/scss/bootstrap"; */
 @import 'https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js';
 
+nav {
+    margin: 25px 1px 60px 10px;
+  
+}
+
+#nav2 {
+    margin-bottom: 10px;
+}
+
+main {
+    --bs-body-font-family: var(--bs-font-monospace);
+    --bs-body-line-height: 1.4;
+    --bs-body-bg: var(--bs-gray-100);
+    margin: 0px 70px 0px 70px;
+  }
 
 
 
@@ -23,5 +38,11 @@
 /* .g-5 {
     
 } */
+
+/* .img-fluid img-thumbnail {
+    border: 1px solid var(--bs-gray-200);
+    border-radius: .25rem;
+} */
+
 
 
