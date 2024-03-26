@@ -1,5 +1,6 @@
-/* @import "bootstrap/scss/bootstrap";
-@import 'https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js'; */
+@import "bootstrap/scss/bootstrap";
+@import 'https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js';
+
 
 
 
@@ -18,3 +19,9 @@
 
     } */
 }
+
+/* .g-5 {
+    
+} */
+
+
