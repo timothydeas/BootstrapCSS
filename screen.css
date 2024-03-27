@@ -11,16 +11,15 @@ nav {
 }
 
 main {
-    --bs-body-font-family: var(--bs-font-monospace);
+    /* --bs-body-font-family: var(--bs-font-monospace);
     --bs-body-line-height: 1.4;
-    --bs-body-bg: var(--bs-gray-100);
+    --bs-body-bg: var(--bs-gray-100); */
     margin: 0px 70px 0px 70px;
   }
 
 
-
-.dropdown {
-    position: relative;
+/* .dropdown {
+    position: relative; */
 
     /* .btn btn-secondary dropdown-toggle {
 
@@ -33,7 +32,7 @@ main {
     .dropdown-item {
 
     } */
-}
+/* } */
 
 /* .g-5 {
     
